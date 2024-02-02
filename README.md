@@ -1,2 +1,4 @@
-Work with Plain JS and API Fetch 
-Only Desktop View avaible
+Only Desktop View available
+Used Plain JS
+Used Weather Api By Open Weather App
+Used giolocation to fetch current location
